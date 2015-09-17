@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442459665 source:c:\users\tony\desktop\codeproject\juego\juego_1\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+
